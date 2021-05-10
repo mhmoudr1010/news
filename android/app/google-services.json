@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472976881827",
+    "project_id": "stockapp-eb2be",
+    "storage_bucket": "stockapp-eb2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472976881827:android:a16b793ffc6f5ce6206716",
+        "android_client_info": {
+          "package_name": "com.stonks.watchlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472976881827-neg04ct3g09eul75kt7deg2jb3r4rvh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stonks.watchlist",
+            "certificate_hash": "21ad13d708373e9e1e9e327410e518c1c3318f5d"
+          }
+        },
+        {
+          "client_id": "472976881827-lnui9u8of4b0u2eaosqu9g4ecbstcdop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE28NsRtZQJHtuAxwgsfxWubVSGJdrZZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472976881827-lnui9u8of4b0u2eaosqu9g4ecbstcdop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
